@@ -3,7 +3,7 @@ title: Platform 10
 sections:
   - type: hero_section
     title: 'Fast, reliable, quality content'
-    subtitle: For your flexible
+    subtitle: For your unique business needs
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.

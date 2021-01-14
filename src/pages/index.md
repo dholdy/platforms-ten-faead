@@ -11,7 +11,7 @@ sections:
       - label: Our Portfolio
         url: /pricing
         style: primary
-      - label: ''
+      - label: Submit a Request
         url: /features
         style: secondary
     image: images/classic/hero.png

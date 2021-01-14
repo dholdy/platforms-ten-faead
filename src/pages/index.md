@@ -8,7 +8,7 @@ sections:
       Need content? Our team can manage your blog posts, website content, ad
       copy, email campaigns, ebooks, social posts... should we keep going?
     actions:
-      - label: ''
+      - label: Our Portfolio
         url: /pricing
         style: primary
       - label: Learn More

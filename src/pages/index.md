@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: 'Fast, reliable, quality content'
     subtitle: For your unique business needs
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Need content? Our team can manage your blog posts, website content, ad
+      copy, email campaigns, ebooks, social posts... should we keep going?
     actions:
       - label: Try Free
         url: /pricing

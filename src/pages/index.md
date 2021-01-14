@@ -2,7 +2,7 @@
 title: Platform 10
 sections:
   - type: hero_section
-    title: ''
+    title: 'Fast, quality content'
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

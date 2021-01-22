@@ -15,7 +15,7 @@ sections:
         content: |
           ***
 
-          ### $35/500 words
+          ### $45/500 words
 
           \*Dependent on complexity
 

@@ -2,7 +2,7 @@
 title: Platform 10
 sections:
   - type: hero_section
-    title: 'Fast, reliable, quality content'
+    title: 'Faster, better, easier content'
     subtitle: ''
     content: >
       Need content? Our team can manage your blog posts, website content, ad

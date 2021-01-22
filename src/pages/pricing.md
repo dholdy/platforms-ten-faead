@@ -55,18 +55,16 @@ sections:
       - title: Writer Placement
         subtitle: Get a trained copywriter to work directly with your business
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### $1000
 
-          per month, billed yearly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+
+          *   A qualified writer with complete copy training
+          *   Additional preparation catered to your business
+          *   Ready to hit the ground running as your dedicated contract writer
         content_align: left
         actions:
           - label: Start with Business

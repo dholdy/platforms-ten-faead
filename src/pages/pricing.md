@@ -94,7 +94,7 @@ sections:
           Sure. We tailor content to each unique need. Some projects are simply
           more complex than others. We'll work with you to find the price point
           that makes sense for your content complexity and cadence. 
-      - title: Viverra nam libero justo laoreet sit?
+      - title: How does the writer placement work?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit

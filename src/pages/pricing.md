@@ -33,18 +33,18 @@ sections:
       - title: Hourly Rates
         subtitle: Best for large requests such as ebooks or website copy
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### $50/hour
 
-          per month, billed yearly
+          \*Dependent on complexity & scope
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   Ebooks
+          *   Training manuals
+          *   Website copy
+          *   Ghostwriting
+          *   Editing
         content_align: left
         actions:
           - label: Start with Premium

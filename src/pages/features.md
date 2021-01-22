@@ -7,7 +7,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Danica
+      - title: Danica's Story
         subtitle: From teacher to freelancer to director
         content: >
           I "retired" from teaching at the birth of my first child in 2015 and

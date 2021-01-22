@@ -24,10 +24,12 @@ sections:
         media_width: fifty
       - title: See a need
         subtitle: Too much work—a good problem to have
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          In 2020 I found myself with a very good problem—too much writing work
+          for one person to handle. Between my existing contacts and referrals,
+          I was unable to provide the quality content these businesses needed. I
+          had a handful of peers I could recommend, but I'd filled their
+          schedules too. It was time to find more writers. 
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"

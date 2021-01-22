@@ -75,10 +75,10 @@ sections:
         media_position: right
         media_width: fifty
       - title: Better training. Better writers.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We set a high bar for quality content, and each writer is meticulously
+          trained to meet it. Do you need your writers to up their game? Put
+          them through our copy-focused course. 
         actions:
           - label: Learn More
             url: /style-guide

@@ -38,7 +38,7 @@ sections:
 
           ### $50/hour
 
-          \*Dependent on complexity & scope
+          \*Dependent on scope
 
           *   Ebooks
           *   Training manuals

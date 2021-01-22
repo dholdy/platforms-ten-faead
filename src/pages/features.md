@@ -38,7 +38,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Fill a need
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: 'Interesting, meaningful remote work'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh

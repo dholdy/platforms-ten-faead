@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pricing Options
+    title: Pricing
     subtitle: Affordable options for every budget and project
     align: center
     padding_top: large

@@ -90,10 +90,10 @@ sections:
           project rates for content like recurring blog posts with hourly rates
           for website rewrites or editing. 
       - title: Are your prices negotiable?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Sure. We tailor content to each unique need. Some projects are simply
+          more complex than others. We'll work with you to find the price point
+          that makes sense for your content complexity and cadence. 
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla

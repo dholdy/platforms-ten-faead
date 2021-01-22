@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: What We Do
     subtitle: Grid Section Example
     align: center
     grid_items:

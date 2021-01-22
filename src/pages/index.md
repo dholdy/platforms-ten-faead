@@ -59,7 +59,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: The best content you'll never have to think about
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: You're busy. And you're bad at grammar. We get it.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh

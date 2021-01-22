@@ -5,8 +5,8 @@ sections:
     title: 'Faster, better, easier content'
     subtitle: ''
     content: >
-      Need content? Our team can manage your blog posts, website content, ad
-      copy, email campaigns, ebooks, social posts... should we keep going?
+      Don't waste another minute on content creation. We'll write it better,
+      faster, and more affordably. Pinky promise. 
     actions:
       - label: Our Portfolio
         url: /pricing

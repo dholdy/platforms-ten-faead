@@ -60,10 +60,9 @@ sections:
     features:
       - title: The best content you'll never have to think about
         subtitle: You're busy. And you're bad at grammar. We get it.
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Platform 10 takes your request for content and returns high-quality
+          copy on your schedule. No hand-holding or painful proofing involved. 
         actions:
           - label: Learn More
             url: /style-guide

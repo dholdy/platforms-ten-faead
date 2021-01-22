@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Our Story
+    title: About Us
     subtitle: ''
     background_color: primary
   - type: features_section

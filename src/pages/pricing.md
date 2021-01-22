@@ -105,7 +105,7 @@ sections:
           Probably! Our team features creatives of all types, and we're always
           excited to make a customer's idea come to life. Let's talk about what
           you have in mind. 
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
+      - title: ''
         content: ''
     grid_cols: two
     grid_gap_horiz: medium

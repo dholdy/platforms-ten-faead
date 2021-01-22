@@ -53,7 +53,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Writer Placement
-        subtitle: Optional subtitle
+        subtitle: Get a trained copywriter to work directly with your business
         title_align: left
         content: |-
           ---

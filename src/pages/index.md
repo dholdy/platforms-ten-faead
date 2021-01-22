@@ -92,10 +92,10 @@ sections:
         media_width: fifty
       - title: Write for Platform 10
         subtitle: A work-from-home gig that's not a scam. Seriously.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We recruit and train writers to create content for growing businesses
+          of all shapes and sizes. Write for our team or we can place you with a
+          company to run your own freelance contracts. 
         actions:
           - label: Learn More
             url: /style-guide

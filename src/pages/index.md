@@ -59,7 +59,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: The best content you'll never have to think about
-        subtitle: You're busy. And you're bad at grammar. We get it.
+        subtitle: You're busy. And bad at grammar. We get it.
         content: >
           Platform 10 takes your request for content and returns high-quality
           copy on your schedule. No hand-holding or painful proofing involved. 

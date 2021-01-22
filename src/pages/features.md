@@ -23,7 +23,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: See a need
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Too much work—a good problem to have
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh

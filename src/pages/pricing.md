@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Project
+      - title: Project Rate
         subtitle: Best for one-time projects or uniform recurring content
         title_align: left
         content: |-

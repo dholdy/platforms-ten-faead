@@ -9,10 +9,15 @@ sections:
     features:
       - title: Danica
         subtitle: From teacher to freelancer to director
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          I "retired" from teaching at the birth of my first child in 2015 and
+          immediately started freelancing for a marketing agency. I knew nothing
+          about marketing, SEO, advertising strategy, or what to charge. Soon I
+          was writing 60+ blog posts for over 30 different clients each month,
+          sprinkling in email campaigns and social media ads. Over the years I
+          have ghostwritten nonfiction books, edited training manuals, written
+          scripts for video ads and movie trailers, and learned everything about
+          the role of content for a growing business. 
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: right

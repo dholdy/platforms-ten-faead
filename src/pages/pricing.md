@@ -31,7 +31,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Hourly Rates
-        subtitle: Best for large requests such as manuals or
+        subtitle: Best for large requests such as ebooks or website copy
         title_align: left
         content: |-
           ---

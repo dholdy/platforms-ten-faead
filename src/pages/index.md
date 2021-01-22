@@ -97,7 +97,7 @@ sections:
           of all shapes and sizes. Write for our team or we can place you with a
           company to run your own freelance contracts. 
         actions:
-          - label: Learn More
+          - label: Get started
             url: /style-guide
             style: primary
             has_icon: true

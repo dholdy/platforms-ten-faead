@@ -10,9 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Project Rate
-        subtitle: >-
-          Best for one-time projects (manuals or ebooks) or uniform recurring
-          content (weekly blog posts)
+        subtitle: Best for uniform recurring content (weekly blog posts)
         title_align: left
         content: |-
           ---

@@ -39,10 +39,13 @@ sections:
         media_width: fifty
       - title: Fill a need
         subtitle: 'Interesting, meaningful remote work'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          I'm surrounded by highly-educated women looking for legitimate,
+          challenging remote work. Silicone Slopes and the pandemic have
+          collided in our favor, creating opportunities for writing that smart
+          stay-at-home-moms can seize. A constant refrain was "I wouldn't even
+          know where to begin." Well, I do, and I'm here to help you get
+          started. 
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right

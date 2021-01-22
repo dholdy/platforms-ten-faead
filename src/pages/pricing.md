@@ -12,17 +12,17 @@ sections:
       - title: Project Rate
         subtitle: Best for uniform recurring content like weekly blog posts
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### $35/500 words
 
-          per month, billed yearly
+          \*Negotiable 
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   Blog posts
+          *   Social media
+          *   Email campaigns
+          *   Editing books/manuals
         content_align: left
         actions:
           - label: Start with Personal

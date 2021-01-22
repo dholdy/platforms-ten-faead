@@ -167,10 +167,9 @@ sections:
         image_has_padding: true
       - title: You publish
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We send you pitch-perfect content by your due date, ready for the
+          posting. 
         content_align: left
         actions:
           - label: Learn More

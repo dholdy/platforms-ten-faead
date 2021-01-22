@@ -84,10 +84,11 @@ sections:
     title: 'You asked, we answered!'
     grid_items:
       - title: Can I get a customized price plan?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Yes! We recognize that your business needs are unique, so we're always
+          open to creating a pricing plan that works for you. We can combine
+          project rates for content like recurring blog posts with hourly rates
+          for website rewrites or editing. 
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut

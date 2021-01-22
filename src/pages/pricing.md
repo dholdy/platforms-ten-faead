@@ -17,7 +17,7 @@ sections:
 
           ### $35/500 words
 
-          \*Negotiable 
+          \*Dependent on complexity
 
           *   Blog posts
           *   Social media

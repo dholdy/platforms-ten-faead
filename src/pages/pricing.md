@@ -89,7 +89,7 @@ sections:
           open to creating a pricing plan that works for you. We can combine
           project rates for content like recurring blog posts with hourly rates
           for website rewrites or editing. 
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: Are your prices negotiable?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio

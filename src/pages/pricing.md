@@ -103,11 +103,10 @@ sections:
           away. We recruit sharp individuals, train them, then match them with
           small businesses to find the perfect fit. 
       - title: Can you create stuff that isn't listed here?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >
+          Probably! Our team features creatives of all types, and we're always
+          excited to make a customer's idea come to life. Let's talk about what
+          you have in mind. 
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.

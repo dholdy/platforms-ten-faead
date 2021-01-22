@@ -147,10 +147,10 @@ sections:
         image_has_padding: true
       - title: We write
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Our team will create your content based on your request and relevant
+          research. Work is reviewed by multiple writers and editors to ensure
+          quality. 
         content_align: left
         actions:
           - label: Learn More

@@ -47,7 +47,7 @@ sections:
           *   Editing
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Request an hourly quote
             url: /features
             style: primary
         actions_align: left

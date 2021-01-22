@@ -80,7 +80,7 @@ sections:
           trained to meet it. Do you need your writers to up their game? Put
           them through our copy-focused course. 
         actions:
-          - label: Learn More
+          - label: Writer Workshop
             url: /style-guide
             style: primary
             has_icon: true

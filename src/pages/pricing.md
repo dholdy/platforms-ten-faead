@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Project
-        subtitle: Optional subtitle
+        subtitle: Best for one-time projects or uniform recurring content
         title_align: left
         content: |-
           ---

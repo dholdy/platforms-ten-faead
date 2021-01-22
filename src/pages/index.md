@@ -3,7 +3,7 @@ title: Platform 10
 sections:
   - type: hero_section
     title: 'Fast, reliable, quality content'
-    subtitle: For your unique business needs
+    subtitle: ''
     content: >
       Need content? Our team can manage your blog posts, website content, ad
       copy, email campaigns, ebooks, social posts... should we keep going?

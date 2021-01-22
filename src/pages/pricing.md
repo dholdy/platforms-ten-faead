@@ -102,7 +102,7 @@ sections:
           rigorous training program that prepares writers to provide value right
           away. We recruit sharp individuals, train them, then match them with
           small businesses to find the perfect fit. 
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+      - title: Can you create stuff that isn't listed here?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo

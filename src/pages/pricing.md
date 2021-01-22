@@ -95,12 +95,13 @@ sections:
           more complex than others. We'll work with you to find the price point
           that makes sense for your content complexity and cadence. 
       - title: How does the writer placement work?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          Many growing businesses are ready for in-house, dedicated writing, but
+          don't know where to find reliable hires. We've utilized our years of
+          freelance, agency, and in-house content experience to create a
+          rigorous training program that prepares writers to provide value right
+          away. We recruit sharp individuals, train them, then match them with
+          small businesses to find the perfect fit. 
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.

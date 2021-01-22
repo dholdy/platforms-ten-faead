@@ -25,7 +25,7 @@ sections:
           *   Editing books/manuals
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Request a project quote
             url: /features
             style: primary
         actions_align: left

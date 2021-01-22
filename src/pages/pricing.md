@@ -67,7 +67,7 @@ sections:
           *   Ready to hit the ground running as your dedicated contract writer
         content_align: left
         actions:
-          - label: Start with Business
+          - label: Request a writer placement
             url: /features
             style: primary
         actions_align: left

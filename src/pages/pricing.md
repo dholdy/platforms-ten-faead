@@ -58,9 +58,7 @@ sections:
         content: |
           ***
 
-          ### $1000
-
-
+          ### $1000/hire
 
           *   A qualified writer with complete copy training
           *   Additional preparation catered to your business

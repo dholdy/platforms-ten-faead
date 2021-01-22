@@ -90,7 +90,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: Write for Platform 10
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut

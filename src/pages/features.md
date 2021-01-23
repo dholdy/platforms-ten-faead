@@ -18,7 +18,7 @@ sections:
           have ghostwritten nonfiction books, edited training manuals, written
           scripts for video ads and movie trailers, and learned everything about
           the role of content for a growing business. 
-        image: images/about-3.jpg
+        image: images/6BBB6936-E4C6-4740-B920-616DCB028342.jpeg
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
@@ -46,7 +46,7 @@ sections:
           stay-at-home-moms can seize. A constant refrain was "I wouldn't even
           know where to begin." Well, I do, and I'm here to help you get
           started. 
-        image: images/about-1.jpg
+        image: images/3A30E1CF-1C1E-47E1-93EE-BD56EDC51F5B.jpeg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty

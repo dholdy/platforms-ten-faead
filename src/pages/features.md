@@ -18,7 +18,7 @@ sections:
           have ghostwritten nonfiction books, edited training manuals, written
           scripts for video ads and movie trailers, and learned everything about
           the role of content for a growing business. 
-        image: images/about-3.jpg
+        image: images/6BBB6936-E4C6-4740-B920-616DCB028342.jpeg
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty

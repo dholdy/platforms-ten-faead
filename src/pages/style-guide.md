@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Writer Workshop
 template: page
 ---
 

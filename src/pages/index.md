@@ -56,7 +56,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Why you love us
-    subtitle: Features Section Example
+    subtitle: ''
     features:
       - title: The best content you'll never have to think about
         subtitle: You're busy. And bad at grammar. We get it.

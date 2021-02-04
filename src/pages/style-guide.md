@@ -2,107 +2,45 @@
 title: Writer Workshop
 template: page
 ---
+Do you notice typos and poor writing everywhere you look? Do you want to work from home on your own schedule, doing interesting and meaningful work? There's a pressing need for qualified writers at small businesses—especially with the Silicon Slopes boom and COVID's push to remote work. We can get you started with a rewarding freelance career today. 
 
-This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue.
+# Targeted Training
 
-# This is an H1
-## This is an H2
-### This is an H3
-#### This is an H4
-##### This is an H5
-###### This is an H6
+After writing freelance content for 70+ clients over 5 years, we've narrowed down exactly what you need to know to jump into content creation. Each lesson provides useful instruction and resources that help you meet client needs, while building your own portfolio and resume. 
 
-## Quoting
+## Our Curriculum
 
-Nullam hendrerit dictum vehicula. Nunc nec tortor et dui vestibulum venenatis. Donec mattis ligula ac efficitur lacinia.
+### Four distinct courses
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec pretium vulputate sapien nec sagittis aliquam. Turpis massa sed elementum tempus egestas sed sed. Orci a scelerisque purus semper eget duis at tellus at. Lacus luctus accumsan tortor posuere ac. 
+*   Writing Foundations
 
-> Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Ultrices sagittis orci a scelerisque purus semper eget duis. Pharetra pharetra massa massa ultricies. Felis eget nunc lobortis mattis aliquam.
+*   Basic SEO
 
-In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean sed adipiscing diam. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Justo laoreet sit amet cursus sit amet dictum. Turpis tincidunt id aliquet risus feugiat in ante metus.
+*   Writing for the Internet
 
-In non tempus urna, non blandit nisl. Phasellus aliquam, tellus et lobortis dictum, justo turpis placerat est, sed luctus nunc elit eu odio. Phasellus imperdiet, nulla a elementum tempor, nisi elit tincidunt dolor, eget venenatis metus libero et elit.
+*   Freelance Professionalism
 
-Vivamus tempus ornare urna, eget imperdiet quam venenatis ac. Donec fermentum massa id aliquet vulputate. Nam vestibulum ornare est, sed tincidunt mauris interdum a. In hac habitasse platea dictumst. Pellentesque sit amet arcu sed risus vehicula fermentum sit amet a neque. Sed imperdiet lacinia magna sit amet dapibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean non purus a quam placerat luctus. Proin orci risus, lobortis ut dictum at, gravida at nulla. 
+### Writing Samples
 
-## Unordered and Ordered Lists
+Each course will include practice writing assignments that give you experience and help build your portfolio. 
 
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
+### Coaching Calls
 
-***
+Each course will include a coaching call to review your writing samples, answer questions, and cater instruction to your interests.
 
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
+### Job Readiness
 
-## Code Blocks
+Our final course—Freelance Professionalism—prepares you to begin your career as a freelance content creator.  We help you polish your porfolio, create a resume, and prepare for interviews. We'll also teach you what to expect from freelance contracts and how to set your pricing. 
 
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
+### Certification
 
-```
-let sequence = [1, 1, 2, 3, 5, 8, 13];
-for (let i = 0; i < sequence.length; i++) {
-  console.log(sequence[i]);
-}
-```
+Successfuls completion of our Writer Workshop will earn you our Content Creator Certification, qualifying you to join our Platform 10 Freelance Team or to apply for any content job that sounds interesting to you. 
 
-## Inline Elements
+# Get Writing
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Platform 10 is also a full-service content agency with a deep list of clients and contract projects. Once you've completed your certification you are eligible to join our team. Take your pick of available projects—on your schedule. Platform 10 can also place you with a company for direct and exclusive work on your own terms. 
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+## In-House Training
 
-Combined emphasis with **asterisks and _underscores_**.
+Need to train one of your existing employees to produce your content? Use our course and certification to get your in-house writing up to par. 
 
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-Inline `code` with `back-ticks around` it.
-
-This is <mark>marked or highlighted</mark> text.
-
-This is [an example](http://example.com) link.
-
-## Tables
-
-<div class="responsive-table">
-  <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
-    <thead>
-      <tr>
-        <th>Header content</th>
-        <th>Header content</th>
-        <th>Header content</th>
-        <th>Header content</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-      </tr>
-      <tr>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td>Footer content</td>
-        <td>Footer content</td>
-    <td>Footer content</td>
-    <td>Footer content</td>
-      </tr>
-    </tfoot>
-  </table>
-</div>

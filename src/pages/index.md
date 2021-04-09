@@ -233,7 +233,7 @@ sections:
       - title: Danica Holdaway
         subtitle: Co-Founder & CEO
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: images/6BBB6936-E4C6-4740-B920-616DCB028342.jpeg
         image_position: top
       - title: Jessica Wilkinson
         subtitle: Co-Founder & Director

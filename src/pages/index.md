@@ -166,7 +166,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Jarrett Webster,** Owner, Revity Solutions Marketing Agency
+          **Jarrett Webster,** Revity Solutions Marketing Agency
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left

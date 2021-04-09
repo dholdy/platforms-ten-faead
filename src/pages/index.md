@@ -14,7 +14,7 @@ sections:
       - label: Submit a Request
         url: /features
         style: secondary
-    image: images/jpg-01.jpg
+    image: images/avel-chuklanov-DUmFLtMeAbQ-unsplash.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty

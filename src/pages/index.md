@@ -236,7 +236,7 @@ sections:
         image: images/gustav-purpleson.jpg
         image_position: top
       - title: Jessica Wilkinson
-        subtitle: Software Engineer
+        subtitle: Co-Founder &
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top

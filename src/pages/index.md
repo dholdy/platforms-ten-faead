@@ -223,7 +223,7 @@ sections:
       - title: Jessica Wilkinson
         subtitle: Co-Founder & Director
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: images/Jess Headshot.jpg
         image_position: top
       - subtitle: Developer Advocate
         title_align: center
